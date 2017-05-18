@@ -11,6 +11,7 @@ Project for the [23rd March 2017][meetup_meeting] ["Software Engineers in Test A
 ## setup
 
 ```bash
+$ gem install bundler
 $ bundle install --path vendor/bundle
 ```
 
